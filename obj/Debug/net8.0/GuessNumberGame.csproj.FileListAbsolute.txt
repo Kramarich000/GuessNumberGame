@@ -1,0 +1,15 @@
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.exe
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.deps.json
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.runtimeconfig.json
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.dll
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.pdb
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.AssemblyInfoInputs.cache
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.AssemblyInfo.cs
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.sourcelink.json
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.dll
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\obj\Debug\net8.0\refint\GuessNumberGame.dll
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.pdb
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.genruntimeconfig.cache
+C:\Users\karen\OneDrive\Рабочий стол\3 курс\dotnet\GuessNumberGame\obj\Debug\net8.0\ref\GuessNumberGame.dll
