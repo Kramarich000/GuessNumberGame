@@ -1,3 +1,4 @@
+.ionide/
+.vs/
 bin/
 obj/
-*.log
