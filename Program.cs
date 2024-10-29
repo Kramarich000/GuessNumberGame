@@ -1,5 +1,3 @@
-﻿// File: Program.cs
-
 using System;
 
 namespace GuessNumberGame
@@ -8,6 +6,13 @@ namespace GuessNumberGame
     {
         static void Main(string[] args)
         {
+
+            AuthService authService = new AuthService();
+            User user = authService.RegisterUser();
+
+            // Главный игровой процесс
+            // (поместить сюда вызов основной логики игры)
+
             Console.WriteLine("Добро пожаловать в игру 'Угадай число'!");
             Console.WriteLine("Выберите уровень сложности: 1 - Легкий, 2 - Средний, 3 - Сложный");
             int difficulty = int.Parse(Console.ReadLine());
@@ -46,6 +51,7 @@ namespace GuessNumberGame
                     Console.WriteLine($"Поздравляем! Вы угадали число {secretNumber} за {attempts} попыток.");
                 }
             }
+
         }
     }
 }
